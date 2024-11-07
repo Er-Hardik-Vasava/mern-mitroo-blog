@@ -1,4 +1,4 @@
-# Mitrooblog - Blogging Platform
+# Mitrooblog - Blog Website
 
 A blogging platform that allows users to share their thoughts with a clean and intuitive interface. Built using **React** for the front-end, **Express.js** for the back-end, and **MongoDB** as the database.
 
