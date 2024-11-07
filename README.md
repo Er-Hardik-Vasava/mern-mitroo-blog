@@ -1,11 +1,11 @@
-# Blogging Platform
+# mitrooblog - Blogging Platform
 
 A blogging platform that allows users to share their thoughts with a clean and intuitive interface. Built using **React** for the front-end, **Express.js** for the back-end, and **MongoDB** as the database.
 
 ## Features
 
 - **User Authentication**: Sign up, login, and maintain session with JWT-based authentication.
-- **Profile Management**: View and edit your own personal profile.
+- **Profile Management**: View your own personal profile.
 - **Blogging**:
   - Create new blogs.
   - Edit and delete existing blogs.
