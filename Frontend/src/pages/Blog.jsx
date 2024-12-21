@@ -72,7 +72,7 @@ const BlogName = () => {
     try {
       const { data } = await axios.put(
         `http://localhost:3000/api/v1/blog/update/${id}`,
-        { title: updatedBlog.title, content: updatedBlog.content }, // Only send updated fields
+        { title: updatedBlog.title, content: updatedBlog.content }, 
         {
           withCredentials: true,
         }
