@@ -1,17 +1,17 @@
 {
-  "name": "devblog",
+  "name": "blog",
   "version": "1.0.0",
-  "description": "Backend for devblog website",
+  "description": "Backend for blog website",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
   },
   "keywords": [
-    "devblog",
+    "blog",
     "backend"
   ],
-  "author": "mr helix",
+  "author": "hardik vasava",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
